@@ -1,2 +1,3 @@
-# mein-website
-Repository for my website
+# My website
+
+Really cool website
